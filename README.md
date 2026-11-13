@@ -47,8 +47,4 @@ npm start
 
 ## License
 
-Copyright © Colton Zutavern. All rights reserved.
-
-## License
-
 The code is released under the [MIT License](LICENSE). The photos, resume and written content of the site (everything under `public/` and the text of the pages) are (c) Colton Zutavern, all rights reserved, and are not covered by the MIT license.
